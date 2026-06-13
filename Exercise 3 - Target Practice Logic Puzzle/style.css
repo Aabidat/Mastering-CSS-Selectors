@@ -1,0 +1,16 @@
+li:nth-child(2) {
+  color: grey;
+}
+
+.container p:nth-child(3) {
+    background-color: rgb(198, 122, 29);
+}
+
+body p {
+   line-height: 1.6;
+}
+
+
+p:nth-child(1) {
+    color: aqua;
+}
