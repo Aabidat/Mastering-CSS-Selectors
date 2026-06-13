@@ -19,7 +19,7 @@ My teammate wrote CSS that has three mistakes. Links on the whole page are losin
 
 ## Exercise 3 – Target Practice Logic Puzzle
 
-I wsa given an HTML structure. I could change the HTML. I had to write one CSS rule for each target. I would color a list item, give a paragraph a background, and set a line height on both paragraphs. There is also a challenge question about why one selector does not work on this structure.
+I was given an HTML structure. I could not change the HTML. I had to write one CSS rule for each target. I would color a list item, give a paragraph a background, and set a line height on both paragraphs. There is also a challenge question about why one selector does not work on this structure.
 
 **I practiecd:** nth-child, nth-of-type, last-child, and descendant selectors.
 
