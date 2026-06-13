@@ -26,13 +26,13 @@ I was given an HTML structure. I could not change the HTML. I had to write one C
 
 ## Exercise 4 – Interactive Profile Card
 
-I was given HTML for a profile card. I had to write all the CSS in an external file. The card has a heading, a paragraph, a button, and an input field. The button needs a hover effect. The input needs a focus effect. At the end, you use an ID to remove a margin that a group selector added.
+I was given HTML for a profile card. I had to write all the CSS in an external file. The card has a heading, a paragraph, a button, and an input field. The button needs a hover effect. The input needs a focus effect. At the end, I used an ID to remove a margin that a group selector added.
 
 **I practiced:** group selectors, hover, focus, transform, and ID specificity.
 
 ## Exercise 5 – Predict the Output
 
-There are two scenarios. In each one, I read the CSS and HTML and predict what color the text will be. Then I explained why before you test it.
+There were two scenarios. In each one, I read the CSS and HTML and predicted what color the text will be. Then I explained why before you test it.
 
 **I practiced:** inheritance, direct targeting, and specificity.
 
