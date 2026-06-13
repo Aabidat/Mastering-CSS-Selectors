@@ -5,7 +5,7 @@ This is a set of six exercises. They help me learn how CSS selectors work and ho
 
 ## Exercise 1 – The Specificity Showdown
 
-I was given a paragraph that has an ID and a class. Three CSS rules give it three different colors. I have to find out which rule wins and why. Then I have to make the paragraph green by adding just one new rule.
+I was given a paragraph that has an ID and a class. Three CSS rules give it three different colors. I had to find out which rule wins and why. Then I had to make the paragraph green by adding just one new rule.
 
 **I practiced:** selector weight, overriding rules, and combining selectors.
 
